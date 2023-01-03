@@ -1,0 +1,10 @@
+{
+  "name": "koa-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^8.31.0",
+    "koa": "^2.14.1"
+  }
+}
